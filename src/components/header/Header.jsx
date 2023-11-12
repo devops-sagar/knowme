@@ -16,16 +16,16 @@ const Header = () => {
             <li className="nav__item">
               <a href="#home" className="nav__link active-link">
                 <i className="uil uil-estate nav__icon"></i> Home
-              </a>   
+              </a>
             </li>
 
             <li className="nav__item">
               <a href="#about" className="nav__link">
                 <i className="uil uil-user nav__icon"></i> About
-              </a>   
+              </a>
             </li>
 
-            <li className="nav__item">  
+            <li className="nav__item">
               <a href="#skills" className="nav__link">
                 <i className="uil uil-file-alt nav__icon"></i> Skills
               </a>   
