@@ -39,7 +39,8 @@ const Footer = () => {
 
         <span className="footer__copy">
           &#169; Sagar Pathak. OpenSource. Contact for sourcecode<br/>
-          V 12.15.1
+          V 12.15.1<br/>
+          🚩 जय श्री राम 🚩
         </span>
       </div>
     </footer>

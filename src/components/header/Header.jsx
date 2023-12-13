@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import "./header.css";
+import face from "../../assets/toon.jpeg";
 
 const Header = () => {
 
@@ -23,7 +24,7 @@ const Header = () => {
     <header className="header">
       <nav className="nav container">
 
-        <a href="index.html" className="nav__logo">Sagar</a>
+        <a href="#home" className="nav__logo">SP</a>
 
         <div className={Toggle ? "nav__menu show__menu" : "nav__menu"}>
 
