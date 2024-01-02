@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/knowme/static/css/main.88e69c48.css",
-    "main.js": "/knowme/static/js/main.693736db.js",
+    "main.css": "/knowme/static/css/main.d95bd27b.css",
+    "main.js": "/knowme/static/js/main.d698fe26.js",
     "static/media/DegreeHolding.png": "/knowme/static/media/DegreeHolding.64a00322d3b07ac65415.png",
     "static/media/profile.png": "/knowme/static/media/profile.ae49f223b2cbb3beb406.png",
     "static/media/Sagar_CV7.pdf": "/knowme/static/media/Sagar_CV7.ccaa897c73b4db220034.pdf",
@@ -10,11 +10,11 @@
     "static/media/testimonial2.png": "/knowme/static/media/testimonial2.39a53f7f092f07f5bceb.png",
     "static/media/testimonial1.png": "/knowme/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "index.html": "/knowme/index.html",
-    "main.88e69c48.css.map": "/knowme/static/css/main.88e69c48.css.map",
-    "main.693736db.js.map": "/knowme/static/js/main.693736db.js.map"
+    "main.d95bd27b.css.map": "/knowme/static/css/main.d95bd27b.css.map",
+    "main.d698fe26.js.map": "/knowme/static/js/main.d698fe26.js.map"
   },
   "entrypoints": [
-    "static/css/main.88e69c48.css",
-    "static/js/main.693736db.js"
+    "static/css/main.d95bd27b.css",
+    "static/js/main.d698fe26.js"
   ]
 }
